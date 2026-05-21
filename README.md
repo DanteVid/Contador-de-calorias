@@ -18,7 +18,7 @@
 # install torch for CUDA
 > pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 
-# Create a dataset/ folder in the project root
+# Create a dataset/ folder in the project root if there isn't one already
 # Download the datasets and put them inside
 # Link to drive with the datasets: https://drive.google.com/drive/folders/1VT1VLN_QL04DV0jb2aCUuBt86AdiqkPp?usp=sharing 
 
