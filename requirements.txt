@@ -1,0 +1,24 @@
+# --- Web / API ---
+fastapi
+uvicorn[standard]
+streamlit
+
+# --- Framework ---
+torchvision
+
+# --- Modelo ---
+ultralytics  # Para YOLO
+ollama
+
+# --- Preprocesamiento de datos ---
+pandas
+numpy
+scikit-learn
+
+# --- Imagen y audio ---
+Pillow          # Para manejo de imágenes en Streamlit / PIL
+
+# --- Otros útiles ---
+requests      # Streamlit → FastAPI POST
+python-multipart  # Carga de archivos en FastAPI
+chromadb
